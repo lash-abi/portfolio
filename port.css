@@ -116,14 +116,15 @@ p{
     animation-delay: 2s, 3s;
     background-color: transparent;
     filter: drop-shadow(0 0 20px #0ef);
-    width:600px;
+    width:500px;
+    
     
 
 
 }
 
 img{
-    width: 600px;
+    width: 500px;
     height: 600px;
     background-color: transparent;
 }
