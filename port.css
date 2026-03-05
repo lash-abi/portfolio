@@ -1,7 +1,7 @@
-@import url();
+
 
 *  {
-    margin: 0;
+    
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
@@ -12,7 +12,7 @@ max-width:100%;
 body{
     background-color: #1f242d;
     color: #fbfbfb;
-margin : 0;
+
 
 }
 .header{
@@ -122,7 +122,7 @@ p{
 }
 
 img{
-    width: 500px;
+    width: 600px;
     height: 600px;
     background-color: transparent;
 }
